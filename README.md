@@ -3,7 +3,9 @@
 ## Problem statement:
 Predicting Gas Turbine plant's decay state coefficient, two outputs: GT Compressor decay state coefficient and GT Turbine decay state coefficient. Correlation between Decay state coefficients and other parameters is performed.
 
-## Dataset link - http://archive.ics.uci.edu/ml/datasets/condition+based+maintenance+of+naval+propulsion+plants
+## Dataset link
+
+http://archive.ics.uci.edu/ml/datasets/condition+based+maintenance+of+naval+propulsion+plants
 
 ### Phases of the project are as follows:
 
